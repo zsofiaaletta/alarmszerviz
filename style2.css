@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+section {
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+@media screen and (max-width: 1500px) {
+  section {
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+}
+
+@media screen and (max-width: 1500px) {
+  section {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+
+
+.header-img {
+  height: 250px;
+  font-size: 1.5rem;
+}
+
+@media screen and (max-width: 606px) {
+  .header-img {
+    height: 280px;
+  }
+}
+
+.kep {
+  width: 200px;
+  height: auto;
+  position: relative;
+  left: 30px;
+  right: 30px;
+}
