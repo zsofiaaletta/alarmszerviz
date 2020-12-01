@@ -1,0 +1,10 @@
+Elindítjuk a wp ikonnal
+Setting general kitölteni a Site title és tagline mezõket
+Rányomni a wp melletti szövegre - visit site
+Jobb katt a fejlécen 
+Elem vizsgálata
+body calss lenyitni divid brand-ig
+pao search törlés del-el
+képet hypersnap-el kimásolni és menteni pl ajanlottfejlec.jpg
+kép felsõ lekerekített sarkot kitölteni
+
